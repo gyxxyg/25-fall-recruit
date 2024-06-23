@@ -1,5 +1,6 @@
 # 25秋招信息总结
 
+
 ## 相关Repo
 
 - [Campus2025](https://github.com/NAOSI-DLUT/Campus2025)
@@ -19,7 +20,6 @@
 | 字节跳动-TopSeed | -- | -- | [链接](https://jobs.bytedance.com/campus) | 全国 |
 | 淘天-tstar |  -- | -- | [链接](https://talent.taotian.com/campus/position-list?campusType=star&lang=zh) | 北京/杭州 |
 | 蚂蚁-蚂蚁星 | -- | -- | [链接](https://talent.antgroup.com/campus-full-list?antStar) | 北京/上海/杭州 |
-| 阿里星 | -- | -- | 联系HR？| -- |
 | 华为智能汽车-天才少年 | -- | -- | [链接](https://mp.weixin.qq.com/s?__biz=MzkyNzU5NjcwMg==&mid=2247484948&idx=2&sn=72015cc3de443300e277d513aa13a7c8&chksm=c224efe5f55366f376d8cf23db42acd0cd176d37adea6e41e94b2e3962ccb8ec7d4b1e05877c&token=764513816&lang=zh_CN&scene=21#wechat_redirect) | -- |
 | 同花顺-AIME计划 | -- | 2024/06/14 | [链接](https://mp.weixin.qq.com/s?__biz=MzkyNzU5NjcwMg==&mid=2247484938&idx=1&sn=116b2897e18b411905f75897b6cf5871&chksm=c224effbf55366ed39210967a07d22ad448a668c75c7d8a053c3985d6ae1b1afdff22f7b36f9&token=764513816&lang=zh_CN&scene=21#wechat_redirect) | -- |
 

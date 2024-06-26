@@ -34,6 +34,7 @@
 | TP link | 2024/05/27 | 尽快投递 | [链接](https://career.tplinkglobal.com/campus/jobs) | 深圳/上海/成都 |
 | 禾赛科技 | 2024/06/24 | 尽快投递 | [链接](https://kwh0jtf778.jobs.feishu.cn/229043) | 上海/杭州 |
 | 浪潮 | 2024/06/25 | 尽快投递 | [链接](http://career.inspur.com/campus2024/campus.html#md_box) | 济南/北京等 |
+｜小红书 ｜ 2024/06/26 ｜ 尽快投递｜  -- ｜ 上海/北京 ｜
 
 
 ## 面试经验/题库

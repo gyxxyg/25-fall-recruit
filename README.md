@@ -33,6 +33,7 @@
 | RoboSense | 2024/06/01 | 2024/08/15 | [链接](https://mp.weixin.qq.com/s/n4UaEKk1yK2wdH2KZPHuMw) | 深圳为主 |
 | TP link | 2024/05/27 | 尽快投递 | [链接](https://career.tplinkglobal.com/campus/jobs) | 深圳/上海/成都 |
 | 禾赛科技 | 2024/06/24 | 尽快投递 | [链接](https://kwh0jtf778.jobs.feishu.cn/229043) | 上海/杭州 |
+| 浪潮 | 2024/06/25 | 尽快投递 | [链接](http://career.inspur.com/campus2024/campus.html#md_box) | 济南/北京等 |
 
 
 ## 面试经验/题库

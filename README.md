@@ -37,5 +37,6 @@
 | 小红书 |  2024/06/26 |  尽快投递 |  -- | 上海/北京 |
 | 联通数科 |  2024/05/28 |  2024/06/28 |  [链接](https://cudt.zhiye.com/6/jobs?queryId=8fe2ba67-a651-443b-beb2-b4549763fa60) | 深圳/北京等 |
 | 小米 | 2024/06/28 | 2024/08 | [链接](https://hr.xiaomi.com/campus/recruitment?tabId=3) | 深圳/北京/上海等 |
+| vivo(博士) | 2024/06/27 | 尽快投递 | [链接](https://hr-campus.vivo.com/campus/jobs) | 深圳/上海/杭州等 |
 
 ## 面试经验/题库

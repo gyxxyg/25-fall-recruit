@@ -40,5 +40,7 @@
 | vivo(博士) | 2024/06/27 | 尽快投递 | [链接](https://hr-campus.vivo.com/campus/jobs) | 深圳/上海/杭州等 |
 |迅雷X-PEP产品星 | 2024/07/01 | 2024/08/16| [链接](https://sz.bendibao.com/job/2024628/975586.shtm) | 深圳 |
 | 360 | 2024/06/25 | 2025/01/01 | [链接](https://360campus.zhiye.com/jobs) | 北京 |
+| 星环科技 | 2024/06/27 | 2024/08/31 | [链接](https://app.mokahr.com/campus_apply/transwarp/3196#/) | 上海 |
+| 影石 | 2024/06/27 | 2024/11/30 | [链接](https://arashivision.jobs.feishu.cn/campus/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=7366092328065714469&tag=) | 深圳 |
 
 ## 面试经验/题库

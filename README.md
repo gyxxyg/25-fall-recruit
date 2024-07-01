@@ -39,5 +39,6 @@
 | 小米 | 2024/06/28 | 2024/08 | [链接](https://hr.xiaomi.com/campus/recruitment?tabId=3) | 深圳/北京/上海等 |
 | vivo(博士) | 2024/06/27 | 尽快投递 | [链接](https://hr-campus.vivo.com/campus/jobs) | 深圳/上海/杭州等 |
 |迅雷X-PEP产品星 | 2024/07/01 | 2024/08/16| [链接](https://sz.bendibao.com/job/2024628/975586.shtm) | 深圳 |
+| 360 | 2024/06/25 | 2025/01/01 | [链接](https://360campus.zhiye.com/jobs) | 北京 |
 
 ## 面试经验/题库

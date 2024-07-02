@@ -24,6 +24,7 @@
 | 同花顺-AIME计划 | -- | 2024/06/14 | [链接](https://mp.weixin.qq.com/s?__biz=MzkyNzU5NjcwMg==&mid=2247484938&idx=1&sn=116b2897e18b411905f75897b6cf5871&chksm=c224effbf55366ed39210967a07d22ad448a668c75c7d8a053c3985d6ae1b1afdff22f7b36f9&token=764513816&lang=zh_CN&scene=21#wechat_redirect) | -- |
 | 比亚迪-博士招聘 | 2024/06 | --| [链接](https://job.byd.com/portal/pc/#/school/schoolPhQ?1wdfb1LbMwhz4TymXhCJbg==) | 深圳/上海 | 
 | 中兴-未来领军 | -- | -- | [链接](https://job.zte.com.cn/cn/campus-recruitment/Recruitment_positions/future.html) | -- |
+| 中国航天科技集团 | --| 2024/08/15 | [链接](https://www.spacetalent.com.cn/xcjh.html) | --|
 
 ### 提前批
 
@@ -42,5 +43,6 @@
 | 360 | 2024/06/25 | 2025/01/01 | [链接](https://360campus.zhiye.com/jobs) | 北京 |
 | 星环科技 | 2024/06/27 | 2024/08/31 | [链接](https://app.mokahr.com/campus_apply/transwarp/3196#/) | 上海 |
 | 影石 | 2024/06/27 | 2024/11/30 | [链接](https://arashivision.jobs.feishu.cn/campus/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=7366092328065714469&tag=) | 深圳 |
+|格力 | 2024/07/04 | -- | [链接](campus@cn.gree.com) | 广东 |
 
 ## 面试经验/题库

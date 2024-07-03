@@ -44,5 +44,6 @@
 | 星环科技 | 2024/06/27 | 2024/08/31 | [链接](https://app.mokahr.com/campus_apply/transwarp/3196#/) | 上海 |
 | 影石 | 2024/06/27 | 2024/11/30 | [链接](https://arashivision.jobs.feishu.cn/campus/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=7366092328065714469&tag=) | 深圳 |
 |格力 | 2024/07/04 | -- | [链接](campus@cn.gree.com) | 广东 |
+| 滴滴 | 2024/07/- | 2024/09/30 | [链接](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/jobs) | 北京 |
 
 ## 面试经验/题库

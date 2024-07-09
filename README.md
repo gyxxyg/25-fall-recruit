@@ -25,6 +25,8 @@
 | 比亚迪-博士招聘 | 2024/06 | --| [链接](https://job.byd.com/portal/pc/#/school/schoolPhQ?1wdfb1LbMwhz4TymXhCJbg==) | 深圳/上海 | 
 | 中兴-未来领军 | -- | -- | [链接](https://job.zte.com.cn/cn/campus-recruitment/Recruitment_positions/future.html) | -- |
 | 中国航天科技集团 | --| 2024/08/15 | [链接](https://www.spacetalent.com.cn/xcjh.html) | --|
+| 商汤-AI先锋 | 2024/07/08 | -- | [链接](https://hr.sensetime.com/SU6522677e1c240e3d6825d64c/pb/school.html) | 北京/上海/深圳 |
+| 字节跳动-筋斗云 | -- | -- | [链接](https://jobs.bytedance.com/campus) | 全国 |
 
 ### 提前批
 

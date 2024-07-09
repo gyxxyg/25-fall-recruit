@@ -45,6 +45,7 @@
 | 影石 | 2024/06/27 | 2024/11/30 | [链接](https://arashivision.jobs.feishu.cn/campus/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=7366092328065714469&tag=) | 深圳 |
 |格力 | 2024/07/04 | -- | [链接](campus@cn.gree.com) | 广东 |
 | 滴滴 | 2024/07/- | 2024/09/30 | [链接](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/jobs) | 北京 |
-|百度 | 2024/07/0708 | -- | [链接](https://talent.baidu.com/jobs/) |北上深|
+|百度 | 2024/07/08 | -- | [链接](https://talent.baidu.com/jobs/) |北上深|
+| 元戎启行 | 2024/07/01 | -- | [链接](https://app.mokahr.com/campus-recruitment/deeproute/145894#/) | 深圳/北京|
 
 ## 面试经验/题库

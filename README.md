@@ -27,6 +27,7 @@
 | 中国航天科技集团 | --| 2024/08/15 | [链接](https://www.spacetalent.com.cn/xcjh.html) | --|
 | 商汤-AI先锋 | 2024/07/08 | -- | [链接](https://hr.sensetime.com/SU6522677e1c240e3d6825d64c/pb/school.html) | 北京/上海/深圳 |
 | 字节跳动-筋斗云 | -- | -- | [链接](https://jobs.bytedance.com/campus) | 全国 |
+| 快手-快star | -- | -- | [链接](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionLabel=kstar) | 北京/杭州 |
 
 ### 提前批
 

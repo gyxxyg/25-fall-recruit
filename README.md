@@ -51,4 +51,8 @@
 |百度 | 2024/07/08 | -- | [链接](https://talent.baidu.com/jobs/) |北上深|
 | 元戎启行 | 2024/07/01 | -- | [链接](https://app.mokahr.com/campus-recruitment/deeproute/145894#/) | 深圳/北京|
 
+### 正式批
+| 岗位名称 | 开始时间 | 截止时间 | 链接 | 地点 |
+| --- | --- | --- | --- |  --- |
+| 华为 | -- | -- | [链接](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html) | -- |
 ## 面试经验/题库

@@ -28,6 +28,7 @@
 | 商汤-AI先锋 | 2024/07/08 | -- | [链接](https://hr.sensetime.com/SU6522677e1c240e3d6825d64c/pb/school.html) | 北京/上海/深圳 |
 | 字节跳动-筋斗云 | -- | -- | [链接](https://jobs.bytedance.com/campus) | 全国 |
 | 快手-快star | -- | -- | [链接](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionLabel=kstar) | 北京/杭州 |
+| 小红书 - redstar | -- | -- | [链接](https://job.xiaohongshu.com/campus/position?positionName=&jobProjects=red_star) | 北京/上海 |
 
 ### 提前批
 
@@ -55,4 +56,7 @@
 | 岗位名称 | 开始时间 | 截止时间 | 链接 | 地点 |
 | --- | --- | --- | --- |  --- |
 | 华为 | -- | -- | [链接](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html) | -- |
+| 科大讯飞 | -- | -- | [链接](https://campus.iflytek.com/official-pc/jobList) | -- |
+
+
 ## 面试经验/题库

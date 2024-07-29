@@ -52,6 +52,7 @@
 | 滴滴 | 2024/07/- | 2024/09/30 | [链接](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/jobs) | 北京 |
 |百度 | 2024/07/08 | -- | [链接](https://talent.baidu.com/jobs/) |北上深|
 | 元戎启行 | 2024/07/01 | -- | [链接](https://app.mokahr.com/campus-recruitment/deeproute/145894#/) | 深圳/北京|
+|理想 | -- | --| [链接](https://www.lixiang.com/employ/campus.html?fromJob=1) | 北上杭|
 
 ### 正式批
 | 岗位名称 | 开始时间 | 截止时间 | 链接 | 地点 |
@@ -59,6 +60,7 @@
 | 华为 | -- | -- | [链接](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html) | -- |
 | 科大讯飞 | -- | -- | [链接](https://campus.iflytek.com/official-pc/jobList) | -- |
 | MiniMax | -- | -- | [链接](https://vrfi1sk8a0.jobs.feishu.cn/379481/?keywords=&category=&location=&project=7372476719653718283&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | 北京/上海 |
-
+| 美团| 2024/7/29| -- | [链接](https://zhaopin.meituan.com/web/home)| 北京/上海|
+| 拼多多 | --| --| [链接](https://careers.pinduoduo.com/campus/grad/technical-session) | 上海 |
 
 ## 面试经验/题库
